@@ -1,6 +1,6 @@
 🐍 A simple snake game designed using pygame in python
 
-🟢 The snake is green
+🟩 The snake is green 
 🟤 The food is brown
 
 ⌨️ Use either "WASD" or arrow keys to navigate
@@ -10,7 +10,8 @@
 - snake must stay within border
 - if snake runs into itself, game is over
 - snake grows with every snack
+- snake does not go bakc into itself
 
 // THINGS TO IMPROVE //
-- food can still appear outside border
-- snake can go left, then right and eat itself
+- show high score
+- if input entered too quickly, it will ignore second input
