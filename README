@@ -10,7 +10,7 @@
 - snake must stay within border
 - if snake runs into itself, game is over
 - snake grows with every snack
-- snake does not go bakc into itself
+- snake does not go back into itself when changing directions
 
 // THINGS TO IMPROVE //
 - show high score
